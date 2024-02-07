@@ -1,0 +1,14 @@
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\bin\Debug\net8.0\Mad-Libs.exe
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\bin\Debug\net8.0\Mad-Libs.deps.json
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\bin\Debug\net8.0\Mad-Libs.runtimeconfig.json
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\bin\Debug\net8.0\Mad-Libs.dll
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\bin\Debug\net8.0\Mad-Libs.pdb
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\obj\Debug\net8.0\Mad-Libs.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\obj\Debug\net8.0\Mad-Libs.AssemblyInfoInputs.cache
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\obj\Debug\net8.0\Mad-Libs.AssemblyInfo.cs
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\obj\Debug\net8.0\Mad-Libs.csproj.CoreCompileInputs.cache
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\obj\Debug\net8.0\Mad-Libs.dll
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\obj\Debug\net8.0\refint\Mad-Libs.dll
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\obj\Debug\net8.0\Mad-Libs.pdb
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\obj\Debug\net8.0\Mad-Libs.genruntimeconfig.cache
+E:\C#\C# Beginner Projects\Mad-Libs-Generator\Mad-Libs\obj\Debug\net8.0\ref\Mad-Libs.dll
